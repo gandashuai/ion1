@@ -1,0 +1,26 @@
+
+{
+  "name": "DEFI",
+  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xb08789e0223b6792f75e90efbc5cadf68f8def47",
+      "name": "paswordspace(",
+      "symbol": "PWE",
+      "decimals": 4,
+      "logoURI": "https://https://raw.githubusercontent.com/gandashuai/ion1/main/logo.png8.png/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
