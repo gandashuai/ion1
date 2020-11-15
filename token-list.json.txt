@@ -15,7 +15,7 @@
       "name": "paswordspace(",
       "symbol": "PWE",
       "decimals": 4,
-      "logoURI": "https://https://raw.githubusercontent.com/gandashuai/ion1/main/logo.png8.png/logo.png"
+      "logoURI": "https://github.com/gandashuai/ion1/blob/main/logo.png8.png"
       }
     ],
     "version": {
